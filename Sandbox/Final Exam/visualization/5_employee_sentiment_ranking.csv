@@ -1,0 +1,11 @@
+from,Total_Messages,Positive,Neutral,Negative,Average_Sentiment_Score
+bobette.riner@ipgdirect.com,217,148,47,22,0.5806451612903226
+don.baughman@enron.com,213,147,52,14,0.6244131455399061
+eric.bass@enron.com,210,160,36,14,0.6952380952380952
+john.arnold@enron.com,256,193,52,11,0.7109375
+johnny.palmer@enron.com,213,151,42,20,0.6150234741784038
+kayne.coulter@enron.com,174,125,33,16,0.6264367816091954
+lydia.delgado@enron.com,284,203,67,14,0.6654929577464789
+patti.thompson@enron.com,225,167,38,20,0.6533333333333333
+rhonda.denton@enron.com,172,122,42,8,0.6627906976744186
+sally.beck@enron.com,227,158,45,24,0.5903083700440529
